@@ -2,6 +2,7 @@
 
 
 ## TL;DR
+<img src="http://gtms04.alicdn.com/tps/i4/TB1RcpdKFXXXXazXXXXrzE1JFXX-360-243.png"/>
 
 ## Simple Usage
 ```javascript
