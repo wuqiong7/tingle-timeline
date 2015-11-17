@@ -18,11 +18,15 @@ let data = [
     }
 ];
 
-<TimeFlows data={data}/>
+<Timeline data={data}/>
 
 ````
 
 ## 可用配置
+| 配置项       | 类型    | 必填    | 默认值 | 功能/备注 |
+|-------------|:------:|:--------:|:------:|:------:|
+| data        | Array  | required | []     |        |
+
 
 ## API接口
 
